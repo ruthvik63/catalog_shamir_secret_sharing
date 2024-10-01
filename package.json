@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "f": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "numeric": "^1.2.6",
+    "path": "^0.12.7"
+  },
+  "name": "catalog_shamir_secret_sharing",
+  "version": "1.0.0",
+  "description": "this code finds the secret",
+  "main": "final.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
